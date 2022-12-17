@@ -1,0 +1,10 @@
+O que é HTML?
+HTML é a sigla para HyperText Markup Language (Linguagem de Marcação de Hipertexto, em inglês). 
+Foi criado na década de 1990 pelo físico britânico Tim Berners-Lee, considerado o “pai da web”, 
+para auxiliar na formatação dos documentos de pesquisas compartilhados entre ele e seus colegas.
+
+Como funciona?
+O HTML é uma linguagem de marcação com a qual os elementos de uma página são
+ identificados e definidos, geralmente, por um par de marcadores conhecidos como 
+tags. Esses elementos podem ser desde textos e suas formatações, como parágrafos,
+ sublinhados e links, até conteúdos multimídia, como imagens e vídeos.
